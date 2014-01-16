@@ -1,40 +1,25 @@
-Syllabus: Data-driven Interactive Journalism (Jour72312)
+Syllabus: Data-driven Interactive Journalism (JOUR 72312 0)
 ======
-
-> Spring Fall 2013: Aug 28 – Dec 18  
-> Thursdays 5:00-7:50pm  
-> Room 436  
-
-We swim in a world of data – from election results, budgets and census reports, to Facebook updates and image uploads. Journalists need to know how to find stories in data and shape them in compelling ways. This hands-on course teaches reporters and editors to gather, analyze, and visualize interactive data-driven stories. This emerging discipline touches on information and interactivity design, mapping, graphing, animation tools, and data analysis.
-
-Participants are expected to pitch, report, and produce stories working alone and in teams. You’ll learn to use online Web tools such as Google Fusion Tables, Refine, and Maps, and integrate them in a non code-intensive development environment. Familiarity with HTML/CSS is helpful, but not required. This is not a course in coding, but programmers of all skill levels are welcome.
-# Syllabus: Data-driven Interactive Journalism (Jour72312)
 
 > Spring 2014: Jan 31 – May 16
 > Friday 9:30 am - 12:20 pm
-> Room TK
+> Room 436
 
-It isn't hypberbole: journalists today have access to more data than ever before, as well as better tools to understand that data and expose the stories buried in the numbers. Whether about cities, the environment, health, economics or box office results, there are numbers that you can turn rough numbers into a chart or map that tells a story. This semester we will work together to analyze, scrutinize and visualize the numbers behind interactive data-driven stories.
+It isn't hypberbole: journalists today have access to more data than ever before, as well as better tools to understand that data and expose the stories buried in the numbers. From election results, budgets and census reports, to Facebook updates and image uploads, journalists need to know how to find stories in data and shape them in compelling ways. This hands-on course teaches reporters and editors to gather, analyze, and visualize interactive data-driven stories. This burgeoning discipline touches on information and interactivity design, mapping, graphing, data analysis, and a bit of code.
 
-Data visualization is an emerging discipline that incorporates information design, and interaction design, mapping, graphing, data analysis and a bit of HTML and jQuery.
-
-Students will pitch, report, and produce stories working both alone and in teams. You'll learn some HTML and CSS along the way -- just enough to show off your owrk. 
+Participants are expected to pitch, report, and produce stories working alone and in teams.
 
 ' `You’ll learn to use online Web tools such as Google Fusion Tables, Refine, and Maps, and integrate them in a non code-intensive development environment. Familiarity with HTML/CSS is helpful, but not required. This is not a course in coding, but programmers of all skill levels are welcome.`
 
 Class Blog: <http://datadrivenjournalism.spring.2014.journalism.cuny.edu/>  
-Class Notes: <http://piratepad.net/cunyjdata>  
 
 `E-reserve: <http://cunygsj.docutek.com/eres/coursepage.aspx?cid=141> (Use access code ddj2013)`
 
 [Skip to syllabus in detail](#detail)
 
-Amanda Hickman 419i  
-amanda.hickman@journalism.cuny.edu  
-Hours: <http://piratepad.net/amandahickman>  
-Phone: 917/655-2579  
-Skype: amandabee  
-Tumblr: <http://jour72312.tumblr.com/>
+Russell Chun 419k  
+russell.chun@journalism.cuny.edu  
+Hours: Fridays 2-5pm, or by appointment
 
 ## Course objectives
 This three-credit course explores complex storytelling using data. Students will pitch, report, conceptualize, design, and produce informative and compelling data-driven pieces. The course emphasizes:
