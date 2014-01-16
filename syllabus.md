@@ -7,9 +7,7 @@ Syllabus: Data-driven Interactive Journalism (JOUR 72312 0)
 
 It isn't hypberbole: journalists today have access to more data than ever before, as well as better tools to understand that data and expose the stories buried in the numbers. From election results, budgets and census reports, to Facebook updates and image uploads, journalists need to know how to find stories in data and shape them in compelling ways. This hands-on course teaches reporters and editors to gather, analyze, and visualize interactive data-driven stories. This burgeoning discipline touches on information and interactivity design, mapping, graphing, data analysis, and a bit of code.
 
-Participants are expected to pitch, report, and produce stories working alone and in teams.
-
-' `You’ll learn to use online Web tools such as Google Fusion Tables, Refine, and Maps, and integrate them in a non code-intensive development environment. Familiarity with HTML/CSS is helpful, but not required. This is not a course in coding, but programmers of all skill levels are welcome.`
+Participants are expected to pitch, report, and produce stories working alone and in teams. You’ll learn to use online Web tools such as Google Fusion Tables, Refine, and Maps, and integrate them in a non code-intensive development environment. Familiarity with HTML/CSS is helpful, but not required. This is not a course in coding, but programmers of all skill levels are welcome.
 
 Class Blog: <http://datadrivenjournalism.spring.2014.journalism.cuny.edu/>  
 
