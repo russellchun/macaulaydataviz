@@ -43,7 +43,9 @@ This three-credit course explores complex storytelling using data. Students will
 
 ## About the Faculty
 
-**Amanda Hickman** works at the intersection of journalism and civic engagement, and especially values reporting that makes it easier for individuals to participate in democratic processes. As program director at DocumentCloud, she helped reporters around the world analyze, annotate, and publish primary source documents. Amanda managed development of a series of games about public policy issues as Gotham Gazette‘s director of technology. She has spent more than a decade reporting on local and international events and working directly with community based organizations to understand, and draw their membership into, the political process. Amanda has taught at Columbia Graduate School of Journalism, NYU’s Gallatin School and CUNY Graduate School of Journalism.
+Russell Chun is a multimedia developer, author, and educator specializing in visualizing science, data, and story ideas for the web. He is on the adjunct faculty at City University of New York (CUNY) Graduate School of Journalism where he teaches data-driven interactive journalism. He is also on the faculty in the Multimedia Arts Degree Program at Sessions College for Professional Design. He is the author of several books on multimedia, and has developed courses, and interactive and video products on effective multimedia.
+
+Russell previously taught at Columbia University and the University of California at Berkeley Graduate Schools of Journalism. He’s served as an interactive consultant and trainer for News21, a Carnegie/ Knight-funded national initiative to improve the quality of journalism education in the United States. He’s judged local and national multimedia news contests.
 
 ## WordPress and Digital Storage
 
