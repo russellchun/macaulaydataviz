@@ -1,5 +1,5 @@
-Introduction to Data Science/Data Visualization
-Macaulay Honors College
+#Introduction to Data Science/Data Visualization
+##Macaulay Honors College
 
 5 weeks x 3 hours = 15 hours = 1 credit course
 Wednesdays, 7-10pm
