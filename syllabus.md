@@ -65,11 +65,10 @@ Understanding data types, file formats, delimiters
 Basic spreadsheet concepts: sorting, functions, String manipulations, auto increments, fixing cell references, paste special, text to columns
 Normalizing data
 Get github account, page, and gist: sharing work and data
-
 ### Homework:
 * Spreadsheet course (https://www.digitaljschool.com/school/catalog/course/working-with-data-spreadsheets-for-journalists/), Intro, Importing and Formatting, and Exploring
 * Review spreadsheet tutorial (http://multimedia.journalism.berkeley.edu/tutorials/spreadsheets/)
-* Identify an issue and associated dataset from the UN HDX with which you want to work. Dowload, explore and prepare your CSV.
+* Identify an issue and associated dataset from the UN HDX with which you want to work. Dowload, explore and prepare your CSV. Look for additional datasets that can add value.
 
 ###Week 2
 Guest speaker: UN HDX data scientist
@@ -81,6 +80,8 @@ Storyboarding your visualization
 Project updates
 ### Homework:
 * Spreadsheet course (https://www.digitaljschool.com/school/catalog/course/working-with-data-spreadsheets-for-journalists/), Summarizing, Writing, and Wrapup
+* Reading: Cairo selections: https://drive.google.com/file/d/0B0QfGqQEgO0gWHlrMWN4TmZrSTA/view?usp=sharing
+* Storyboard your visualization(s) with pencil on paper. Bring at least three different versions to class next week
 
 ###Week 3
 Visual encoding: Cleveland and McGill
@@ -89,6 +90,9 @@ Data Viz as a tool
 Visual strategies: data-ink ratio, small multiples, chart junk, redundant encoding
 Graphical forms: categorical comparison, time series, correlation, proportions, distributions
 Charting tools, image formats (JPG, SVG), JSON and Highcharts
+### Homework:
+* Create visualizations of your data
+* Reading: Tufte selections: https://drive.google.com/file/d/0B0QfGqQEgO0gb0NGbnlENktuUUE/view?usp=sharing
 
 ###Week 4
 Geographic encoding: cartoDB
@@ -97,6 +101,9 @@ Choropleth maps
 color schemes: categorical, diverging, sequential
 SQL to filter results
 Workshop projects
+### Homework:
+* Finalize data visualizations and annotations
+
 
 ###Week 5
 Data ethics, privacy, policy, misrepresentations
