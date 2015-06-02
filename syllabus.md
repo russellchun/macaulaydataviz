@@ -69,7 +69,7 @@ Guest speaker: UN HDX data scientist
 ### Homework:
 * Spreadsheet course (https://www.digitaljschool.com/school/catalog/course/working-with-data-spreadsheets-for-journalists/), Intro, Importing and Formatting, and Exploring
 * Review spreadsheet tutorial (http://multimedia.journalism.berkeley.edu/tutorials/spreadsheets/)
-* Identify an issue and associated dataset with which you want to work. Explore and prepare your CSV.
+* Identify an issue and associated dataset from the UN HDX with which you want to work. Dowload, explore and prepare your CSV.
 
 ###Week 2
 Cleaning messy data with OpenRefine
@@ -78,6 +78,8 @@ Identifying trends and outliers with conditional formating
 Making responsible comparisons: means, medians, % change, writing about numbers
 Storyboarding your visualization
 Project updates
+### Homework:
+* Spreadsheet course (https://www.digitaljschool.com/school/catalog/course/working-with-data-spreadsheets-for-journalists/), Summarizing, Writing, and Wrapup
 
 ###Week 3
 Visual encoding: Cleveland and McGill
