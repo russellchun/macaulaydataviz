@@ -65,14 +65,15 @@ Understanding data types, file formats, delimiters
 Basic spreadsheet concepts: sorting, functions, String manipulations, auto increments, fixing cell references, paste special, text to columns
 Normalizing data
 Get github account, page, and gist: sharing work and data
-Guest speaker: UN HDX data scientist
+
 ### Homework:
 * Spreadsheet course (https://www.digitaljschool.com/school/catalog/course/working-with-data-spreadsheets-for-journalists/), Intro, Importing and Formatting, and Exploring
 * Review spreadsheet tutorial (http://multimedia.journalism.berkeley.edu/tutorials/spreadsheets/)
 * Identify an issue and associated dataset from the UN HDX with which you want to work. Dowload, explore and prepare your CSV.
 
 ###Week 2
-Cleaning messy data with OpenRefine
+Guest speaker: UN HDX data scientist
+Cleaning messy data with OpenRefine [if time permits]
 Exploring and summarizing data with Pivot Tables
 Identifying trends and outliers with conditional formating
 Making responsible comparisons: means, medians, % change, writing about numbers
