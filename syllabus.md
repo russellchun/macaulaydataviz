@@ -66,6 +66,10 @@ Basic spreadsheet concepts: sorting, functions, String manipulations, auto incre
 Normalizing data
 Get github account, page, and gist: sharing work and data
 Guest speaker: UN HDX data scientist
+### Homework:
+* Spreadsheet course (https://www.digitaljschool.com/school/catalog/course/working-with-data-spreadsheets-for-journalists/), Intro, Importing and Formatting, and Exploring
+* Review spreadsheet tutorial (http://multimedia.journalism.berkeley.edu/tutorials/spreadsheets/)
+* Identify an issue and associated dataset with which you want to work. Explore and prepare your CSV.
 
 ###Week 2
 Cleaning messy data with OpenRefine
