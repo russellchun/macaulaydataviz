@@ -65,6 +65,7 @@ Understanding data types, file formats, delimiters
 Basic spreadsheet concepts: sorting, functions, String manipulations, auto increments, fixing cell references, paste special, text to columns
 Normalizing data
 Get github account, page, and gist: sharing work and data
+(http://jmcglone.com/guides/github-pages/)
 
 ### Homework:
 * Spreadsheet course (https://www.digitaljschool.com/school/catalog/course/working-with-data-spreadsheets-for-journalists/), Intro, Importing and Formatting, and Exploring
