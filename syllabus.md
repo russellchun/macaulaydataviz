@@ -32,7 +32,7 @@ At the end of this course, students will be able to:
 * Conceptualize clear and concise ways to visualize these trends
 * Understand principles of data visualization and information design
 * Discuss ethical issues in data science and visualization
-* Create visualizations with a variety of tools: open-source code, web-based apps, and proprietary software
+* Create visualizations with a variety of tools: open-source code, web-based apps, and commercial software
 * Evaluate effectiveness of data visualizations
 
 ##Prerequisites
