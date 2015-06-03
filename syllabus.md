@@ -5,6 +5,8 @@
 Wednesdays, 7-10pm
 June 3-July 1
 
+Class notes: http://bit.ly/macaulaydata2015
+
 It isn’t hyperbole: we are inundated with more data than ever before. From public releases out of the federal and local governments to social media feeds, remote sensors and web tracking, enormous amounts of data are being added to the collective database of information daily. What with all the measuring, scoring, and tracking of our activities, we are what the New York Times calls, “The United States of Metrics”. 
 
 As big data becomes a norm in our lives, it’s valuable to learn how data analysis and visualization bring clarity to the heap of numbers. Effective analysis and visualization lead to better understanding, promoting awareness for researchers, policy-makers, and the public. Even the White House recognizes the crucial role of data and data visualization, having appointed Edward Tufte, a pioneer in the field, as a senior advisor, and establishing the role of its first Chief Data Scientist.
