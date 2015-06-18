@@ -95,8 +95,10 @@ Visual strategies: data-ink ratio, small multiples, chart junk, redundant encodi
 Graphical forms: categorical comparison, time series, correlation, proportions, distributions
 Charting tools, image formats (JPG, SVG), JSON and Highcharts
 ### Homework:
-* Create visualizations of your data
+* Create visualizations of your data (Chartbuilder, Raw, Excel, or other program, but preferably output as SVG)
+* Create your Github account and page (http://jmcglone.com/guides/github-pages/), you can use my template (https://github.com/russellchun/russellchun.github.io/blob/master/macaulay/index.html)
 * Reading: Tufte selections: https://drive.google.com/file/d/0B0QfGqQEgO0gb0NGbnlENktuUUE/view?usp=sharing
+* Create a CartoDB account (the Academic plan is free with unlimited tables) https://cartodb.com/signup?plan=academy
 
 ###Week 4
 Geographic encoding: cartoDB
