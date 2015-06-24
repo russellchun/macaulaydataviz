@@ -109,6 +109,7 @@ SQL to filter results
 Workshop projects
 ### Homework:
 * Finalize data visualizations and annotations
+* Meet at United Nations at the main gate (46 street and 1 avenue), Wednesday July 1, 3-5pm. IMPORTANT! Bring ID.
 
 
 ###Week 5
