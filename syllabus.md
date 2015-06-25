@@ -108,8 +108,9 @@ color schemes: categorical, diverging, sequential
 SQL to filter results
 Workshop projects
 ### Homework:
-* Finalize data visualizations and annotations
+* Finalize data visualizations and accompanying text. Keep the text concise. Please avoid phrases like, "This chart shows..." or "This map shows..." and simply state the findings. Instead of writing, "This map shows that HIV rates are highest in southern Africa.", rephrase it simply, "HIV rates are highest in southern Africa". You can add data attribution in the text or in a footnote: "HIV rates are highest in southern Africa, according to data from the United Nations Humanitarian Data Exchange." 
 * Meet at United Nations at the main gate (46 street and 1 avenue), Wednesday July 1, 3-5pm. IMPORTANT! Bring ID.
+* Remember, you are representing Macaulay, and I want to showcase your best work! For time reasons, I may decide to have presentations from only the most successful projects.
 
 
 ###Week 5
